@@ -8,15 +8,15 @@
     Author          : Anthony Kent
     LinkedIn        : linkedin.com/in/akentitpro/
     GitHub          : github.com/AnthonyKSec
-    Date Created    : 2024-09-09
-    Last Modified   : 2024-09-09
+    Date Created    : 2025-06-17
+    Last Modified   : 2025-06-17
     Version         : 1.0
     CVEs            :
     Plugin IDs      : 
     STIG-ID         : WN10-CC-000145
 
 .TESTED ON
-    Date(s) Tested  : 2024-09-09
+    Date(s) Tested  : 2025-06-17
     Tested By       : Anthony Kent
     Systems Tested  : Windows Server 2019 Datacenter, Build 1809
                       Windows 10 Pro, Build 22H2
