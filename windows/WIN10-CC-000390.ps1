@@ -13,7 +13,7 @@
     Version         : 1.0
     CVEs            : 
     Plugin IDs      : 
-    STIG-ID         : WN10-CC-000365
+    STIG-ID         : WIN10-CC-000390
 
 .TESTED ON
     Date(s) Tested  : 2025-06-17
