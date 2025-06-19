@@ -13,7 +13,7 @@
     Version         : 1.0
     CVEs            : 
     Plugin IDs      : 
-    STIG-ID         : WN10-CC-000105
+    STIG-ID         : WN10-CC-000068
 
 .TESTED ON
     Date(s) Tested  : 2025-06-19
@@ -25,7 +25,7 @@
 .USAGE
     Put any usage instructions here.
     Example syntax:
-    PS C:\> .\toggle-protocols.ps1 
+    PS C:\> .\WN10-CC-000068.ps1 
 #>
 
 <#
